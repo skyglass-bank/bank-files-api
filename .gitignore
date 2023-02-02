@@ -61,4 +61,4 @@ src/main/resources/static/
 
 ### Files ##
 src/main/resources/uploads/
-src/main/resources/applcation.properties
+src/main/resources/application.properties
