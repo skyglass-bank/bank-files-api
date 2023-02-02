@@ -45,7 +45,6 @@ dist/
 .DS_Store
 **/.DS_Store
 **/**/.DS_Store
-src/main/resources/uploads/
 
 bin/
 target/
@@ -60,4 +59,6 @@ mvnw.cmd
 mvnw
 src/main/resources/static/
 
-### Test ##
+### Files ##
+src/main/resources/uploads/
+src/main/resources/applcation.properties
